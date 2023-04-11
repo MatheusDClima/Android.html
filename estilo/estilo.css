@@ -73,7 +73,7 @@ nav > a {
     font-size: small;
     color: var(--cor1);
     padding: 10px;
-    border-radius: 5px; /* a caixa fica com as bordas ficam curvadas*/
+    border-radius: 5px; /* a caixa fica com as bordas curvadas*/
     text-decoration: none;
     transition-duration: 0.5s;
 }
@@ -120,8 +120,6 @@ main p {
 
 main strong {
     color: var(--cor4);
-    font-weight;
-   
 }
 
 main a {
