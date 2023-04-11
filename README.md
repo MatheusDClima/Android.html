@@ -5,7 +5,7 @@
 
 <img src="imagens/Responsividade-01.png" align="left" width="300">
 <img src="imagens/Responsividade-02.png" align="left" width="300">
-<img src="imagens/Responsividade-03.png" align="left" width="300">
+
 
 
 
